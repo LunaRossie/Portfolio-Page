@@ -12,6 +12,19 @@ https://vita.vision.org.in/wp-content/uploads/2020/08/Emerging-Technology-750x45
 
 https://hbu-files.wpmucdn.com/uploads/sites/65/2018/03/binary-1536651_1920.jpg
 
+Project 1 - entertainment-hub
+Github link (main branch):
+https://github.com/hkhalfan1979/entertainment-hub
+Deployed Link:
+https://hkhalfan1979.github.io/entertainment-hub/
+Github link (tree branch):
+https://github.com/hkhalfan1979/entertainment-hub/tree/Zhunn
+
+Code Refactor
+Github link 
+https://github.com/LunaRossie/code-refactoring11
+Deployed Link:
+https://lunarossie.github.io/code-refactoring11/
 
 ## Mock-Up
 
