@@ -84,10 +84,9 @@ button:active {
   box-shadow: 0 0 10px; color: black; inset
 }
 
-button: focus; {
-  outline: none;
-  border-color:after aqua
-
+button {
+  outline: none:
+  border color::after 
 }
 
 section {
