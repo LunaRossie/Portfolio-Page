@@ -50,7 +50,9 @@ https://www.linkedin.com/resume-builder/insights/urn:li:digitalmediaAsset:C4E25A
 
 If you have any questions regarding this project, please reach out via email "Terminalbash2022@outlook.com". https://github.com/LunaRossie/Portfolio-Page
 
-img/source
+
+
+## img/source
 
 https://schoolsweek.co.uk/wp-content/uploads/2018/09/Computing-feat.jpg
 
@@ -60,7 +62,12 @@ https://vita.vision.org.in/wp-content/uploads/2020/08/Emerging-Technology-750x45
 
 https://hbu-files.wpmucdn.com/uploads/sites/65/2018/03/binary-1536651_1920.jpg
 
-Project 1 - entertainment-hub
+
+## Projects and other Homework
+
+
+# Project 1 - entertainment-hub
+
 Github link (main branch):
 https://github.com/hkhalfan1979/entertainment-hub
 Deployed Link:
@@ -68,14 +75,30 @@ https://hkhalfan1979.github.io/entertainment-hub/
 Github link (tree branch):
 https://github.com/hkhalfan1979/entertainment-hub/tree/Zhunn
 
-Code Refactor
+
+# Zhunn---Password-Generator
+
 Github link 
-https://github.com/LunaRossie/code-refactoring11
+https://github.com/LunaRossie/Zhunn---Password-Generator
 Deployed Link:
-https://lunarossie.github.io/code-refactoring11/
+https://lunarossie.github.io/Zhunn---Password-Generator/
+Video Link
+https://www.youtube.com/watch?v=GUOWpPKvmxE
 
-## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+# E-Commerce_Back_End---
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+Github link 
+https://github.com/LunaRossie/E-Commerce_Back_End---
+
+Deployed Link:
+https://lunarossie.github.io/E-Commerce_Back_End---/
+
+Video Link
+https://www.youtube.com/watch?v=FxFXnu1Xlg8
+
+https://www.youtube.com/watch?v=OBDDBrDT73Y
+
+https://www.youtube.com/watch?v=pgm9P3GV_Ds
+
+https://www.youtube.com/watch?v=nRRG598GreA
